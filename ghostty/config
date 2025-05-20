@@ -1,0 +1,11 @@
+font-size = 10
+font-family = "Source Code Pro Medium"
+theme = GruvboxLightHard
+background-opacity = 0.9
+cursor-click-to-move = true
+background-blur = true
+gtk-adwaita = true
+gtk-wide-tabs = true
+window-theme = ghostty
+gtk-custom-css = style.css
+adw-toolbar-style = flat
