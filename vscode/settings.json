@@ -1,0 +1,54 @@
+{
+  "editor.semanticTokenColorCustomizations": {
+    "enabled": true,
+    "rules": {
+      "*.mutable": {
+        "underline": false
+      }
+    }
+  },
+  "workbench.colorTheme": "Gruvbox Light Hard",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.indentSize": "tabSize",
+  "editor.detectIndentation": false,
+  "[sass]": {
+    "editor.tabSize": 4
+  },
+  "[css]": {
+    "editor.tabSize": 4
+  },
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
+  "[typescript]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[rs]": {
+    "editor.tabSize": 4
+  },
+  "editor.fontFamily": "'Source Code Pro Medium'",
+  "explorer.confirmDelete": false,
+  "explorer.confirmPasteNative": false,
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "explorer.confirmDragAndDrop": false,
+  "json.format.enable": false,
+  "files.associations": {
+    "*.css": "css"
+  },
+  "css.format.enable": false,
+  "workbench.editor.wrapTabs": true
+}
